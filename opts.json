@@ -1,0 +1,12 @@
+{
+	"includeDrop": "false",
+	"includeDependencies": "false",
+	"includeIndexes" : "false",
+	"includeConstraints": "false",
+	"includeTriggers": "false",
+	"replace":{
+		"findMe": "SET QUOTED_IDENTIFIER ON",
+		"replaceWith": ""
+	},
+	"db": "AdventureWorks2012"
+}
