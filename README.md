@@ -32,6 +32,7 @@ See https://gitsql.net/documentation for more detailed usage instructions.
 		"findMe": "SET QUOTED_IDENTIFIER ON",
 		"replaceWith": ""
 	},
-	"db": "AdventureWorks2012"
+	"db": "AdventureWorks2012",
+	"exportMode": "schema"
 }
 ```
